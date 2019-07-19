@@ -1,0 +1,14 @@
+body{
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     background: url(report-card_8bb5d6ea-9920-11e7-9cb6-5fa30af43469.jpg);
+     background-size: cover;
+     font-family: sans-serif;
+}
+#btn{
+    color:#fff;
+    background: black;
+    padding: 5px;
+    margin-Left: 69%;
+}

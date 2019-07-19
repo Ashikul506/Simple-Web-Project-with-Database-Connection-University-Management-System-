@@ -1,0 +1,36 @@
+body{
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     background: linear-gradient(rgba(0, 0, 150, 0.5),rgba(0, 0, 50, 0.5)),url(diu-trans.jpg);
+     background-size: cover;
+     background-position: center;
+     font-family: sans-serif;
+}
+html,body{
+     margin: 0;
+     padding: 0;
+}
+nav ul{
+     list-style-type:none;
+     margin: 0;
+     padding: 0;
+     background: #444;
+}
+nav ul li{
+     display: inline-block;
+     front-size: 1.1em;
+     padding: 12px;
+}
+nav a{
+     text-decoration: none;
+     color: #fff;
+     padding: 12px;
+}
+nav a:hover{
+     background: #188C9C;
+     color: #fff;
+}
+#content{
+    color:#fff;
+}

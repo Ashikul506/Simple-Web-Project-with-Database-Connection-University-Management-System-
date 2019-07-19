@@ -1,0 +1,13 @@
+body{
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     background: url(protection-concept-personal-information-clip-art_csp16111120.jpg);
+     background-size: cover;
+}
+#btn{
+    color:#fff;
+    background: black;
+    padding: 5px;
+    margin-Left: 69%;
+}

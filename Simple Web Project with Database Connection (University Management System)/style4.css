@@ -1,0 +1,22 @@
+body{
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     background: linear-gradient(rgba(0, 0, 150, 0.5),rgba(0, 0, 50, 0.5)),url(diu-final.jpg);
+     background-size: cover;
+     background-position: center;
+     font-family: sans-serif;
+}
+#frm{
+    width: 100%;
+    color:#fff;
+    border-rodius: 5px;
+    margin: 100 px auto;
+    padding: 50px;
+}
+#btn{
+    color:#fff;
+    background: black;
+    padding: 5px;
+    margin-Left: 69%;
+}
